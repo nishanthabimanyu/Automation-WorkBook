@@ -32,6 +32,19 @@ I took this idea to my circle of techie friends on **Discord**. We banded togeth
 
 ---
 
+## 📓 My Personal Notebook: The Deep Dives
+
+While the categories below contain a library of ready-made workflows, the [Personal Notebook](./Personal_Notebook) is where I document my **complete case studies**.
+
+For high-value Upwork job simulations, I go beyond just the code:
+*   **Problem Breakdown:** The exact client requirement.
+*   **Strategic Planning:** My step-by-step logic and architecture.
+*   **Visual Documentation:** Screenshots and node-by-node explanations.
+
+👉 **[Explore my Case Studies & Personal Notebook here](./Personal_Notebook)**
+
+---
+
 ## 🧠 Special Use Case: RAG & AI Training
 
 **Data Scientists & AI Engineers, take note:**
