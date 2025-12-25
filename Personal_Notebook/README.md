@@ -11,4 +11,5 @@ Here, I document my journey of solving specific, high-value problems found on Up
 
 ## 📂 Featured Case Studies
 *   [00_Project_Template](./00_Project_Template) *(Start here to see the structure)*
+*   [01_Open_Deep_Research_Agent](./01_Open_Deep_Research_Agent) *(AI-Powered Autonomous Research)*
 *   *(More projects coming soon...)*
