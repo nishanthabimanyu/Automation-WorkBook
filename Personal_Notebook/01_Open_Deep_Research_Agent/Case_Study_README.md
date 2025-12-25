@@ -1,8 +1,8 @@
 # Open Deep Research - My Journey to an Autonomous Agent
 
-I picked up a challenge to build a "Deep Research" agent for a high-ticket Upwork client ($1,500 budget). The goal? A system that could take a vague topic like "Future of Solid State Batteries" and write a full, cited report without me holding its hand.
+I picked up a challenge to build a "Deep Research" agent for a high-ticket Upwork client ($500 budget). The goal? A system that could take a vague topic like "Future of Solid State Batteries" and write a full, cited report without me holding its hand.
 
-## 1. The Reality Check (Drowning in Tutorials)
+## 1. The Reality Check 
 I thought this would be a quick weekend project. I was wrong.
 
 I started down the rabbit hole of APIs. SerpAPI for search, Jina AI for scraping, OpenAI for reasoning... I spent days just drowning in tutorials and documentation. Every time I fixed one thing, another broke. 
@@ -11,10 +11,10 @@ I started down the rabbit hole of APIs. SerpAPI for search, Jina AI for scraping
 *   "Why does the LLM forget the context halfway through?"
 *   "My API bill is exploding!"
 
-I realized that **robustness** isn't just about connecting nodes; it's about handling the messiness of the real web.
+I realized that **robustness** isn't just about connecting nodes it's about handling the messiness of the real web.
 
 ## 2. The Discord Query
-I was stuck. My workflow was a fragile house of cards. So, I jumped into the n8n Discord and basically vented:
+I was stuck. My workflow was a fragile house of cards. So, I jumped into the n8n Discord   for help 
 > "Guys, I'm drowning here. My agent either hallucinates or crashes when I try to scrape 10+ pages. How do you actually make this *production-ready*?"
 
 ## 3. The Turning Point
@@ -27,7 +27,7 @@ A friend (shoutout to the community!) pointed out that I was thinking too linear
 ## 4. The Revised Architecture
 Taking that advice, I completely re-engineered the flow to ensure it met the client's strict specifications for autonomy and depth.
 
-![Workflow Screenshot](./assets/workflow_screenshot.png)
+<img width="1913" height="857" alt="Screenshot 2025-12-25 193049" src="https://github.com/user-attachments/assets/694e05d3-05d9-4fcc-a23d-e94c6528530a" />
 
 ### Key Improvements:
 1.  **The Planner:** A dedicated LLM node that "thinks" before it acts, generating 4 distinct search angles.
