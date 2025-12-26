@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 The Origin Story: Two Birds, One Stone
+## How It All Started......
 
 I was just another computer science student, staring at a blank screen, wondering, *"What project should I build?"* I didn't want to make another To-Do list app or a weather widget. I wanted to build something that actually **mattered**.
 
