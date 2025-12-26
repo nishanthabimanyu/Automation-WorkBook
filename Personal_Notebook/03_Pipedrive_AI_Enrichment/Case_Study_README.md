@@ -26,6 +26,9 @@ Here is the flow I created:
 
 ## 3. The Result
 Honestly, it turned out great.
+
+<img width="1824" height="851" alt="image" src="https://github.com/user-attachments/assets/f9671753-6789-4f7e-a7a4-93447f4de689" />
+
 Now, the sales guys don't have to "lurk" on websites anymore. By the time they check Pipedrive, the research is already done for them. It saves them hours every week.
 
 It was a fun project to build because it actually solves a real boring task!
