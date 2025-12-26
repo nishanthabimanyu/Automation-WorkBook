@@ -20,6 +20,7 @@ I decided to use Google Docs as a simple, reliable memory store. It is easy to d
 ## 2. The Solution (How I built it)
 
 I created an n8n workflow that acts like a real personal assistant.
+<img width="1677" height="906" alt="image" src="https://github.com/user-attachments/assets/937db622-3ab4-459f-9bf7-30d1c2229711" />
 
 ### Step 1: The Gatekeeper (Security)
 First, the bot checks who is talking. 
