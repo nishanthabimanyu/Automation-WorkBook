@@ -97,6 +97,33 @@ We have organized these workflows into **8 Industry-Standard Categories** to mir
 
 ---
 
+## 🛠️ Prerequisites
+
+Before you begin, ensure you have the following:
+*   **n8n Instance:** A self-hosted n8n instance (Docker, npm, or Desktop) or an n8n Cloud account.
+*   **Basic Knowledge:** Familiarity with how to import `.json` workflow files into n8n.
+
+## 🔑 Credential Setup
+
+Most of these workflows interact with third-party APIs (OpenAI, Google, HubSpot, etc.).
+*   **Import First:** After importing a workflow, you will see nodes with connection errors.
+*   **Configure:** You must create and link your own credentials for each service within your n8n instance.
+*   **Environment Variables:** Check if any nodes rely on specific environment variables and set them accordingly.
+
+## 🤝 Contribution Guidelines
+
+We are a group of **students developing on Discord**, driven by curiosity and the desire to solve real-world problems.
+*   **Want to contribute?** If you have a workflow that solves a common business problem, feel free to open a Pull Request!
+*   **Join the Squad:** Help us refine existing workflows or suggest new categories.
+
+## ❓ Troubleshooting
+
+*   **Version Mismatch:** If a workflow fails to import, ensure your n8n instance is updated to the latest version.
+*   **Node Missing:** If you see "Unknown Node" errors, you may need to install specific community nodes or update your n8n version.
+*   **API Errors:** Double-check your API keys and ensure you have sufficient quota/permissions on the service provider's end.
+
+---
+
 ## ⚠️ Important: License & n8n Guidelines
 
 **Please Read Before Use:**
