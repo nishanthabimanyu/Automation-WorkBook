@@ -21,8 +21,10 @@ One night on **Upwork**, I noticed a pattern. Businesses were posting hundreds o
 *   *"I need to scrape leads from LinkedIn."*
 *   *"I need to sync my emails to my CRM."*
 *   *"I need to automate my customer support tickets."*
+  
+I realized I could solve these real-world problems while building a portfolio. I rallied a team of developers on Discord, and we analyzed hundreds of job postings to create this Automation WorkBook—a curated collection of n8n workflows designed to solve the exact problems businesses are paying for.
 
-I realized I could solve these real-world problems while building a portfolio. I rallied a team of developers on **Discord**, and we analyzed hundreds of job postings to create this **Automation WorkBook**—a curated collection of n8n workflows designed to solve the exact problems businesses are paying for.
+
 
 ---
 
