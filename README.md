@@ -13,9 +13,9 @@
 
 ---
 
-## 📖 About the Project
+## 📖 About the Project - How It All Started......
 
-I was a computer science student looking for a project that actually **mattered**. I didn't want to build another generic To-Do list.
+I was just another computer science student, staring at a blank screen, wondering, *"What project should I build?"* I didn't want to make another To-Do list app or a weather widget. I wanted to build something that actually **mattered**.
 
 One night on **Upwork**, I noticed a pattern. Businesses were posting hundreds of jobs for the same repetitive problems:
 *   *"I need to scrape leads from LinkedIn."*
