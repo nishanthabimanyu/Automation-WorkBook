@@ -13,7 +13,7 @@
 
 ---
 
-## 📖 About the Project - How It All Started......
+##  About the Project - How It All Started......
 
 I was just another computer science student, staring at a blank screen, wondering, *"What project should I build?"* I didn't want to make another To-Do list app or a weather widget. I wanted to build something that actually **mattered**.
 
@@ -27,7 +27,7 @@ I took this idea to my circle of techie friends on **Discord**. We banded togeth
 
 ---
 
-## 📓 Personal Notebook: The Deep Dives
+## Personal Notebook  : The Deep Dives
 
 While the categories below contain a library of ready-made workflows, the [Personal Notebook](./Personal_Notebook) is where I document my **complete case studies**.
 
@@ -40,7 +40,7 @@ For high-value Upwork job simulations, I go beyond just the code:
 
 ---
 
-## 🧠 Special Use Case: RAG & AI Training
+## Special Use Case: RAG & AI Training
 
 **Data Scientists & AI Engineers, take note:**
 
@@ -92,7 +92,7 @@ We have organized these workflows into **8 Industry-Standard Categories**:
 
 ---
 
-## ⚡ Getting Started
+## Getting Started
 
 Follow these steps to deploy these workflows in your own environment.
 
